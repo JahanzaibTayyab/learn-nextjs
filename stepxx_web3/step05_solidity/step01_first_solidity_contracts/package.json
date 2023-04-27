@@ -1,0 +1,16 @@
+{
+  "name": "step01_first_solidity_contracts",
+  "version": "1.0.0",
+  "description": "In this guide, you will learn how to write and test a basic Solidity smart contract using Hardhat. Hardhat is a popular development environment for Ethereum that provides many useful features, including a built-in testing framework and support for deploying to different Ethereum networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
