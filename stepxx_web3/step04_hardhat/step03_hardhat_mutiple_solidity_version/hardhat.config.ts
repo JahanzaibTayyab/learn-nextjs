@@ -10,7 +10,7 @@ const config: HardhatUserConfig = {
       {
         version: "0.8.7",
         settings: {},
-      },
+      }, 
     ],
     overrides: {
       "contracts/Lock.sol": {

@@ -1,0 +1,7 @@
+# What is Solidity and Hardhat
+
+Solidity is a high-level programming language used to write smart contracts on the Ethereum blockchain. Smart contracts are self-executing computer programs that run on a blockchain and can be used to automate various processes, such as the transfer of assets or the execution of agreements. Solidity is designed to be similar to other programming languages such as C++ and JavaScript, making it easier for developers to learn and use.
+
+Hardhat is a development environment for building and testing smart contracts written in Solidity. It provides a suite of tools and plugins that make it easy to compile, deploy, test, and debug smart contracts. Hardhat also has built-in support for Ethereum networks such as Ethereum mainnet, Rinkeby, and Kovan, allowing developers to test their smart contracts in a variety of environments before deploying them to the live network.
+
+Solidity and Hardhat are important because they enable developers to build decentralized applications (dApps) on the Ethereum blockchain. dApps are applications that run on a decentralized network, and are not controlled by a single entity. They are becoming increasingly popular as they allow for greater transparency, security, and trust in transactions. Solidity provides the language to write the code for these dApps, while Hardhat provides the infrastructure for testing and deploying them. As the Ethereum network continues to grow, Solidity and Hardhat will remain essential tools for developers looking to build and deploy dApps on the blockchain.
